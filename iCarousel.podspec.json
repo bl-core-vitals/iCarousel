@@ -15,6 +15,9 @@
     "tag": "1.8.3"
   },
   "source_files": "iCarousel/iCarousel.{h,m}",
+  "public_header_files": [ 
+    "iCarousel/iCarousel.h"
+  ],
   "requires_arc": true,
   "frameworks": "QuartzCore",
   "platforms": {
